@@ -1,5 +1,6 @@
 .vscode-server/
 .gitconfig
+.config/
 
 # Logs
 logs
