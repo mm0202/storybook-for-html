@@ -1,9 +1,6 @@
 {
   "name": "storybook-for-html",
   "version": "0.0.0",
-  "repository": "https://github.com/mm0202-template/try-storybook-for-html.git",
-  "author": "mm0202",
-  "license": "MIT",
   "scripts": {
     "storybook": "start-storybook"
   },
