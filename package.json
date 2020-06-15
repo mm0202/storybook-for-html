@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "storybook": "start-storybook",
-    "build-storybook": "build-storybook && cpx public/**/* storybook-static/public"
+    "build-storybook": "build-storybook && cpx public/** storybook-static/public"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
