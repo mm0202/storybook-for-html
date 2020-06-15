@@ -1,6 +1,7 @@
 .vscode-server/
 .gitconfig
 .config/
+.bash_history
 
 # Logs
 logs
