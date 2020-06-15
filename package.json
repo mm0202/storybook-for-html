@@ -1,0 +1,12 @@
+{
+  "name": "storybook-for-html",
+  "version": "0.0.0",
+  "scripts": {
+    "storybook": "start-storybook"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@storybook/html": "^5.3.19",
+    "babel-loader": "^8.1.0"
+  }
+}
