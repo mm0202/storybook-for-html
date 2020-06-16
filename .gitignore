@@ -2,6 +2,7 @@
 .gitconfig
 .config/
 .bash_history
+.idea
 
 # Logs
 logs
