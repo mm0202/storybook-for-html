@@ -1,4 +1,4 @@
-import "../public/style/index.css"
+import "../public/style/sample.css"
 
 export default { title: 'Button' };
 
