@@ -2,7 +2,7 @@
   "name": "storybook-for-html",
   "version": "0.0.0",
   "scripts": {
-    "storybook": "start-storybook",
+    "storybook": "start-storybook -p 9009",
     "build-storybook": "build-storybook -s public"
   },
   "devDependencies": {
