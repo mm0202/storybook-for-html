@@ -3,12 +3,11 @@
   "version": "0.0.0",
   "scripts": {
     "storybook": "start-storybook",
-    "build-storybook": "build-storybook && cpx ./public/**/* ./storybook-static/public/"
+    "build-storybook": "build-storybook -s public"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@storybook/html": "^5.3.19",
-    "babel-loader": "^8.1.0",
-    "cpx": "^1.5.0"
+    "babel-loader": "^8.1.0"
   }
 }
