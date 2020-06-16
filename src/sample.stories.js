@@ -1,5 +1,5 @@
 import "../public/style/sample.css"
 
-export default { title: 'Button' };
+export default { title: 'Sample' };
 
-export const withText = () => '<button class="btn">Hello World</button>';
+export const sample = () => '<div class="btn">Hello World</div>';
