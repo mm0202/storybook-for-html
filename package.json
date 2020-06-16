@@ -2,7 +2,8 @@
   "name": "storybook-for-html",
   "version": "0.0.0",
   "scripts": {
-    "storybook": "start-storybook"
+    "storybook": "start-storybook",
+    "build-storybook": "build-storybook -s public"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
